@@ -13,7 +13,7 @@ from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer
 
 # Set OpenAI API Key (ensure you replace the placeholder with your actual key)
 
-openai.api_key = "Enter_API_Key"
+openai.api_key = ""
 
 # Function Definitions
 
